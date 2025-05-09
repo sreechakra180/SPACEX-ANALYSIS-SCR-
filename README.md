@@ -97,7 +97,7 @@ The research attempts to identify the factors for a successful rocket landing. T
 * **Feature Analysis / PCA:** Additional feature analysis or principal component analysis should be conducted to see if it can help improve accuracy
 * **XGBoost:** Is a powerful model which was not utilized in this study. It would be interesting to see if it outperforms the other classification models
 
-
+LINKED IN - https://www.linkedin.com/in/sree-chakra-reddy-825724257/
 
 
 
